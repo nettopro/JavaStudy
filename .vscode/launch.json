@@ -1,0 +1,304 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Road",
+            "request": "launch",
+            "mainClass": "oo.inheritance.test.Road",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "Dinner",
+            "request": "launch",
+            "mainClass": "oo.polymorphism.Dinner",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "PersonTest",
+            "request": "launch",
+            "mainClass": "oo.encapsulation.PersonTest",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "Road",
+            "request": "launch",
+            "mainClass": "oo.inheritance.challenge.Road",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "Game",
+            "request": "launch",
+            "mainClass": "oo.inheritance.Game",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "Store",
+            "request": "launch",
+            "mainClass": "oo.composition.challenge.Store",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "LessonTest",
+            "request": "launch",
+            "mainClass": "oo.composition.LessonTest",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "PurchaseTest",
+            "request": "launch",
+            "mainClass": "oo.composition.PurchaseTest",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "CarTest",
+            "request": "launch",
+            "mainClass": "oo.composition.CarTest",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "Hash",
+            "request": "launch",
+            "mainClass": "collections.Hash",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "MapExercise",
+            "request": "launch",
+            "mainClass": "classes.MapExercise",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "StackExercise",
+            "request": "launch",
+            "mainClass": "collections.StackExercise",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "QueueExercise",
+            "request": "launch",
+            "mainClass": "collections.QueueExercise",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "UnorganizedSet",
+            "request": "launch",
+            "mainClass": "collections.UnorganizedSet",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "OrganizedSet",
+            "request": "launch",
+            "mainClass": "collections.OrganizedSet",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "ListExercise",
+            "request": "launch",
+            "mainClass": "collections.ListExercise",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "List",
+            "request": "launch",
+            "mainClass": "collections.List",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "OrganizedCollection",
+            "request": "launch",
+            "mainClass": "collections.OrganizedCollection",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "UnorganizedCollection",
+            "request": "launch",
+            "mainClass": "collections.UnorganizedCollection",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "Equals",
+            "request": "launch",
+            "mainClass": "classes.Equals",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "EqualsHashCode",
+            "request": "launch",
+            "mainClass": "classes.EqualsHashCode",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "Matrix",
+            "request": "launch",
+            "mainClass": "arrays.Matrix",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "ForEach",
+            "request": "launch",
+            "mainClass": "arrays.ForEach",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "Exercise",
+            "request": "launch",
+            "mainClass": "arrays.Exercise",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "Dinner",
+            "request": "launch",
+            "mainClass": "dinner.Dinner",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "NullValue",
+            "request": "launch",
+            "mainClass": "classes.NullValue",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "VariableOutsideMainChallenge",
+            "request": "launch",
+            "mainClass": "classes.VariableOutsideMainChallenge",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "ValueVsReference",
+            "request": "launch",
+            "mainClass": "classes.ValueVsReference",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "AreaCircleTest",
+            "request": "launch",
+            "mainClass": "classes.AreaCircleTest",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "ProductTest",
+            "request": "launch",
+            "mainClass": "classes.ProductTest",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "BreakExercise",
+            "request": "launch",
+            "mainClass": "foundations.BreakExercise",
+            "projectName": "exercises_c173686f",
+            "noDebug": false,
+            "__progressId": "eecf11ef-47ed-469b-bb5a-3a0745accada",
+            "__origin": "internal"
+        },
+        {
+            "type": "java",
+            "name": "ConvertionChallenge",
+            "request": "launch",
+            "mainClass": "foundations.ConvertionChallenge",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "StringEquals",
+            "request": "launch",
+            "mainClass": "foundations.StringEquals",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "DesafioOpAritmeticos",
+            "request": "launch",
+            "mainClass": "foundations.DesafioOpAritmeticos",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CircunferenceArea",
+            "request": "launch",
+            "mainClass": "foundations.CircunferenceArea",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "ConvertPrimitiveType",
+            "request": "launch",
+            "mainClass": "foundations.ConvertPrimitiveType",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "DesafioConversao",
+            "request": "launch",
+            "mainClass": "foundations.DesafioConversao",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "FahrenheitCelsiusConversion",
+            "request": "launch",
+            "mainClass": "foundations.FahrenheitCelsiusConversion",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "FirstProj",
+            "request": "launch",
+            "mainClass": "foundations.FirstProj",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "foundations.Strings",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "Wrappers",
+            "request": "launch",
+            "mainClass": "foundations.Wrappers",
+            "projectName": "exercises_c173686f"
+        }
+    ]
+}
