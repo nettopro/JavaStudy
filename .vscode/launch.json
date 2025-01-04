@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LambdaChallenge",
+            "request": "launch",
+            "mainClass": "lambdas.LambdaChallenge",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "BinaryOperatorLambda",
+            "request": "launch",
+            "mainClass": "lambdas.BinaryOperatorLambda",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "UnaryOperatorLambda",
+            "request": "launch",
+            "mainClass": "lambdas.UnaryOperatorLambda",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "SupplierLambda",
+            "request": "launch",
+            "mainClass": "lambdas.SupplierLambda",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "PredicateComposition",
+            "request": "launch",
+            "mainClass": "lambdas.PredicateComposition",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "FunctionLambda",
+            "request": "launch",
+            "mainClass": "lambdas.FunctionLambda",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "ConsumerLambda",
+            "request": "launch",
+            "mainClass": "lambdas.ConsumerLambda",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "PredicateLambda",
+            "request": "launch",
+            "mainClass": "lambdas.PredicateLambda",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "Foreach",
+            "request": "launch",
+            "mainClass": "lambdas.Foreach",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "CalcTest2",
+            "request": "launch",
+            "mainClass": "lambdas.CalcTest2",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
             "name": "Road",
             "request": "launch",
             "mainClass": "oo.inheritance.test.Road",
