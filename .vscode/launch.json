@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LambdaChallengeSolution",
+            "request": "launch",
+            "mainClass": "lambdas.LambdaChallengeSolution",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
             "name": "LambdaChallenge",
             "request": "launch",
             "mainClass": "lambdas.LambdaChallenge",
