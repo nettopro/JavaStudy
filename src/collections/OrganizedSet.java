@@ -8,7 +8,7 @@ import java.util.TreeSet;
 public class OrganizedSet {
     public static void main(String[] args) {
         //Set<String> approvedList = new HashSet<>();
-        SortedSet<String> approvedList = new TreeSet<>(); //TreeSet sorts alphabettically if not provided a custom comparator
+        SortedSet<String> approvedList = new TreeSet<>(); //TreeSet sorts alphabetically if not provided a custom comparator
         approvedList.add("John");
         approvedList.add("Clara");
         approvedList.add("Ciara");

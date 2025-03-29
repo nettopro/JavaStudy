@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MapChallenge",
+            "request": "launch",
+            "mainClass": "streams.MapChallenge",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "Map",
+            "request": "launch",
+            "mainClass": "streams.Map",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "CreatingStreams",
+            "request": "launch",
+            "mainClass": "streams.CreatingStreams",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "PrintingObjects",
+            "request": "launch",
+            "mainClass": "streams.PrintingObjects",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
             "name": "LambdaChallengeSolution",
             "request": "launch",
             "mainClass": "lambdas.LambdaChallengeSolution",
