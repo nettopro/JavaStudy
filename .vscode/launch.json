@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Others",
+            "request": "launch",
+            "mainClass": "streams.Others",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "MinMax",
+            "request": "launch",
+            "mainClass": "streams.MinMax",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "Match",
+            "request": "launch",
+            "mainClass": "streams.Match",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "Reduce3",
+            "request": "launch",
+            "mainClass": "streams.Reduce3",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "AverageTest",
+            "request": "launch",
+            "mainClass": "streams.AverageTest",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "Reduce2",
+            "request": "launch",
+            "mainClass": "streams.Reduce2",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "Reduce1",
+            "request": "launch",
+            "mainClass": "streams.Reduce1",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "FilterChallenge",
+            "request": "launch",
+            "mainClass": "streams.FilterChallenge",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "Filter",
+            "request": "launch",
+            "mainClass": "streams.Filter",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
             "name": "MapChallenge",
             "request": "launch",
             "mainClass": "streams.MapChallenge",
