@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Cause",
+            "request": "launch",
+            "mainClass": "exceptions.Cause",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "Finally",
+            "request": "launch",
+            "mainClass": "exceptions.Finally",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "TestValidations",
+            "request": "launch",
+            "mainClass": "exceptions.customizedA.TestValidations",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "CheckedVsUnchecked",
+            "request": "launch",
+            "mainClass": "exceptions.CheckedVsUnchecked",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "exceptions.Basic",
+            "projectName": "exercises_c173686f"
+        },
+        {
+            "type": "java",
             "name": "Others",
             "request": "launch",
             "mainClass": "streams.Others",
